@@ -1,4 +1,4 @@
-package functions;
+package com.example.functions;
 
 public class ClassForTest {
     public static boolean compareResults(int a, int b) {
